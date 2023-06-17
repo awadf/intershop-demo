@@ -1,0 +1,6 @@
+com.intershop.demo
+com.intershop.demo.controller
+com.intershop.demo.dto
+com.intershop.demo.entity
+com.intershop.demo.repository
+com.intershop.demo.service

@@ -1,0 +1,21 @@
+Some justification of the object oriented design decisions
+
+1- Encapsulation: Hiding the internal implementation details of data and methods within a class from external entities allowing
+for better code organization, maintainability, and reusability.
+
+2- Inheritance: It promotes code reuse and supports the principle of polymorphism, enabling objects of different classes
+to be treated uniformly.
+
+3- Dependency Injection (DI): By using Dependency Injection to manage dependencies between objects allowing objects to request
+their dependencies from external sources rather than creating them internally. It also enhances modularity, testability,
+and maintainability by decoupling classes from their dependencies and making them more reusable.
+
+3- Polymorphism: It provides flexibility and extensibility, allowing for the substitution of objects at runtime and enable more flexible and maintainable code.
+
+
+Some justification of the selection of external libraries
+1- Lombok: Lombok is a library that helps reduce boilerplate code in Java classes by providing annotations to automatically
+generate common methods like getters, setters, constructors, and equals/hashCode implementations. It improves code readability,
+maintainability, and productivity by reducing the amount of repetitive code that needs to be written and maintained manually.
+
+2- Jackson-databind: It provides powerful serialization and deserialization capabilities, allowing seamless conversion between Java objects and JSON representation.
